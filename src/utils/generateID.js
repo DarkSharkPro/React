@@ -1,0 +1,1 @@
+export const generateID = () => 'id' + performance.now().toString(32);
